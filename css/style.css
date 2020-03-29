@@ -97,6 +97,7 @@ p {
   background: #333;
   color: #ffff;
   overflow: auto;
+  padding-bottom: 5px;
 }
 
 #navbar a{
@@ -153,7 +154,7 @@ p {
 
 /* Home Info */
 #home {
-  height: 400px;
+  height: 450px;
 }
 
 #home .info-img {
